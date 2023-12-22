@@ -1,0 +1,4 @@
+[submodule "hass-backup-s3"]
+	path = hass-backup-s3
+	url = https://github.com/ConnorsApps/hass-backup-s3.git
+	branch = duplicity-fix
